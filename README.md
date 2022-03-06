@@ -6,6 +6,6 @@ Não é uma cópia perfeita da aula ! Ultilizei o conceito da construção da p�
 
 Segue abaixo o link :
 
-https://wellingtonokabayashi.github.io/DevWizard/#servicos
+https://wellingtonokabayashi.github.io/DevWizard/
 
 
